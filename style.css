@@ -1,0 +1,46 @@
+body{
+  background: rgb(0,0,255);
+  background: linear-gradient(90deg, rgba(0,0,255,1) 0%, rgba(0,255,255,1) 100%);
+  font-family: "Comic Sans ms"
+}
+ul{
+  height: 50%;
+  display: flex;
+  padding: 0px;
+  list-style-type: none;
+  flex-direction: column;
+  justify-content: space-between;
+  position: fixed;
+}
+li{
+  display: flex;
+  justify-content: center;
+  width: 55px;
+  border: 3px solid;
+  border-radius: 10px 10px 10px 10px;
+  padding: 15px;
+  background-color: white;
+}
+header{
+  float: right;
+  display: flex;
+  justify-content: center;
+  margin-top: -90px;
+  margin-right: 250px;
+}
+.lvl_img{
+  margin-left: 150px;
+  width: 150px;
+  border-radius: 40px 40px 40px 40px;
+  position: fixed;
+}
+.module_img{
+  border-radius: 20px 20px 20px 20px
+}
+.text_div{
+  margin: 120px;
+  text-align: center;
+}
+h2{
+  margin-top: 50px;
+}
