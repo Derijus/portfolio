@@ -50,6 +50,5 @@ iframe{
   border-style: double;
 }
 #grieksegoden_iframe{
-  width: 200px;
-  height:100px;
+  width: 100%;
 }  
