@@ -36,6 +36,7 @@ header{
 }
 .module_img{
   border-radius: 20px 20px 20px 20px;
+  width: 100px;
 }
 .text_div{
   margin: 120px;
